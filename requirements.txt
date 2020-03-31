@@ -1,0 +1,6 @@
+pytesseract
+pyttsx3
+PIL
+googletrans
+speechrecognition
+python-tk
